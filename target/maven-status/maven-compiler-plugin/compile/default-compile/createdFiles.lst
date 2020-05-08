@@ -1,0 +1,4 @@
+dao\UserDAO.class
+web\UserServlet.class
+util\HibernateUtil.class
+model\User.class
